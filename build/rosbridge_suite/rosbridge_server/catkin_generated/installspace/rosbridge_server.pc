@@ -1,0 +1,8 @@
+prefix=/home/chanie/catkin_ws/install
+
+Name: rosbridge_server
+Description: Description of rosbridge_server
+Version: 0.11.3
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
